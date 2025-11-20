@@ -16,47 +16,51 @@ char.parts = {
             origin = {0, 2},
             face = {
                 offset = {0, -14},
-                origin = {0, 0}
+                origin = {0, 0},
+                nose = {
+                    offset = {1, -11},
+                    origin = {0, 0}
+                }
             },
             hair = {
                 offset = {1, -20},
                 origin = {0, 1}
             },
             leftear = {
-                offset = {10, -21},
+                offset = {9, -21},
                 origin = {0, 2}
             },
             rightear = {
-                offset = {-10, -20},
+                offset = {-9, -20},
                 origin = {0, 3}
             }
         },
         leftarm = {
-            offset = {8, -2},
+            offset = {6, -2},
             origin = {-1, -2},
             leftpaw = {
-                offset = {9, 4},
+                offset = {7, 4},
                 origin = {0, 0}
             }
         },
         rightarm = {
-            offset = {-8, -1},
+            offset = {-5, -1},
             origin = {1, -2},
             rightpaw = {
-                offset = {-8, 4},
+                offset = {-5, 4},
                 origin = {0, 0}
             }
         },
         leftleg = {
-            offset = {4, 10},
+            offset = {4, 9},
             origin = {0, -2},
             leftfeet = {
-                offset = {3, 19},
+                offset = {4, 19},
                 origin = {0, 0}
             }
         },
         rightleg = {
-            offset = {-3, 10},
+            offset = {-2, 9},
             origin = {0, -2},
             rightfeet = {
                 offset = {-3, 19},
